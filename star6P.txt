@@ -1,0 +1,17 @@
+            R            
+           R R           
+          R R R          
+         R R R R         
+G G G G * * * * * O O O O
+ G G G * * * * * * O O O 
+  G G * * * * * * * O O  
+   G * * * * * * * * O   
+    * * * * * * * * *    
+   W * * * * * * * * Y   
+  W W * * * * * * * Y Y  
+ W W W * * * * * * Y Y Y 
+W W W W * * * * * Y Y Y Y
+         B B B B         
+          B B B          
+           B B           
+            B            
