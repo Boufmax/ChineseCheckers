@@ -10,6 +10,7 @@ A Chinese checkers game made during school
 
 ## Requirements
 
+- - Java, [Oracle](https://www.java.com/en/) or OpenJDK
 - A Java IDE (IntelliJ, Eclipse, Netbeans...)
 
 ## Steps to install
